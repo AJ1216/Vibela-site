@@ -1,0 +1,35 @@
+/* Ad Section Styles */
+.ad-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.ad-banner {
+  width: 60%;
+}
+
+.ad-content {
+  width: 35%;
+  text-align: left;
+}
+
+.ad-content h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.ad-content p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.ad-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}

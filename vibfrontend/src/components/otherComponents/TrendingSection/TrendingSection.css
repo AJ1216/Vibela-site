@@ -1,0 +1,21 @@
+.trending-section {
+    padding: 20px;
+  }
+  
+  .trending-cards {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+  }
+  
+  .trending-card {
+    flex: 0 0 auto;
+    width: 150px;
+    text-align: center;
+  }
+  
+  .trending-card img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
